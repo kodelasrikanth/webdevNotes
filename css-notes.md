@@ -11,8 +11,10 @@ The position property sets how an element is positioned in a document. The offse
 
 **Relative**
 : The element is positioned according to the normal flow of a document, and the offset relative to itself based on the value of top, right, bottom and left. the offset does not affect the position of any other elements thus the space given for the element in the page layout is the same as of position were static.
+**Absolute**
+: The element is removed form the normal document flow, and no space is created for the ele
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1NDY1MTQ5LDExODk1MDI3NDYsLTcwOT
+eyJoaXN0b3J5IjpbLTYzMTEwODYwLDExODk1MDI3NDYsLTcwOT
 U5MjgwNywxODMwMTI3NzI0LDE3MTQxOTAxNjAsLTIxMzE3Njk4
 MCwxMzEwODE5Njk2LC0yMTMxNzY5ODBdfQ==
 -->
