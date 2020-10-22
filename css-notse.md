@@ -1,6 +1,6 @@
 ## position 
 **definition**
-Theposition property sets how an element is positioned in a document
+The position property sets how an element is positioned in a document.the offset value
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Njc0NDMxMiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTMyNjAzNzIwNSwtMjA4ODc0NjYxMl19
 -->
