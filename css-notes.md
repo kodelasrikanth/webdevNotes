@@ -21,19 +21,19 @@ The position property sets how an element is positioned in a document. The offse
 **sticky**
 : The element is positioned according to the normal flow of the document, and then offset relative to its nearest scaling ancestor and containing block.
 
-| Property value | In Document flow |
-|--|--|
-| Static | Available |
-| Relative | Available |
-| Absolute | Not Available |
-| Fixed | Not Available |
-| Sticky | Available |
+| Property value | In Document flow | Offset values | 
+|--|--|--|--|
+| Static | Available | No effect
+| Relative | Available | Effect the position
+| Absolute | Not Available | Effect the position
+| Fixed | Not Available | Effect the position
+| Sticky | Available | Effect the position
 
 |--|--|
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjMyOTM4OSwtNzMyODg3Mzc0LC05MT
+eyJoaXN0b3J5IjpbLTk4MjEyODI5OCwtNzMyODg3Mzc0LC05MT
 Y1MDgzMjQsLTE1Nzg3NTQyNTYsMTE4OTUwMjc0NiwtNzA5NTky
 ODA3LDE4MzAxMjc3MjQsMTcxNDE5MDE2MCwtMjEzMTc2OTgwLD
 EzMTA4MTk2OTYsLTIxMzE3Njk4MF19
