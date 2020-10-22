@@ -1,8 +1,7 @@
 ## position
-The position property sets how an element is positioned in a document. The offset properties determine the final location of positioned elements.
-**values**
-
- 1. Static(default)
+The position property sets how an element is positioned in a document. The offset properties determine the final location of positioned elements. CSS supports 5 different positioning methods
+ - Static(default)
+ - 
  2. Relative
  3. Absolute
  4. Fixed 
@@ -12,5 +11,5 @@ The element is positioned according to the normal flow of the document. the offs
 ### Relative
 The element is positioned according to the normal flow of a document, and the offset relative to itself based on the value of top, right, bottom and left 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQyNTA0NTRdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzc5MzkzMjFdfQ==
 -->
