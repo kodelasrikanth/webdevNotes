@@ -1,6 +1,6 @@
 ## position 
 **definition**
-The position defines the positioning of an element 
+The position property def 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTA5NjY3NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTY1NDU4MDE2LC0yMDg4NzQ2NjEyXX0=
 -->
