@@ -27,11 +27,11 @@ The position property sets how an element is positioned in a document. The offse
 | Relative | Available | Effect the position | Itself
 | Absolute | Not Available | Effect the position | ancestor having relative position, if not with respect to viewport |
 | Fixed | Not Available | Effect the position | viewport
-| Sticky | Available | Effect the position | 
+| Sticky | Available | Effect the position | viewport once it's turned to fixed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzIwOTU1OCwtNzMyODg3Mzc0LC05MT
+eyJoaXN0b3J5IjpbMjAyNzIyNTQzMSwtNzMyODg3Mzc0LC05MT
 Y1MDgzMjQsLTE1Nzg3NTQyNTYsMTE4OTUwMjc0NiwtNzA5NTky
 ODA3LDE4MzAxMjc3MjQsMTcxNDE5MDE2MCwtMjEzMTc2OTgwLD
 EzMTA4MTk2OTYsLTIxMzE3Njk4MF19
