@@ -14,8 +14,12 @@ The position property sets how an element is positioned in a document. The offse
 
 **Absolute**
 : The element is removed form the normal document flow, and no space is created for the element in the page layout. it is positioned relative to its positioned ancestor, if any, otherwise, it is placed relative to the initial containing block. its finely position determined by the values of **top**, **right**, **bottom** and **left**.
+
+**fixed**
+: The element is removed from the normal document flow 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg3NTQyNTYsMTE4OTUwMjc0NiwtNz
-A5NTkyODA3LDE4MzAxMjc3MjQsMTcxNDE5MDE2MCwtMjEzMTc2
-OTgwLDEzMTA4MTk2OTYsLTIxMzE3Njk4MF19
+eyJoaXN0b3J5IjpbLTE0MDczMDgyNjgsLTE1Nzg3NTQyNTYsMT
+E4OTUwMjc0NiwtNzA5NTkyODA3LDE4MzAxMjc3MjQsMTcxNDE5
+MDE2MCwtMjEzMTc2OTgwLDEzMTA4MTk2OTYsLTIxMzE3Njk4MF
+19
 -->
