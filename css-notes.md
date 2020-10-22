@@ -9,7 +9,7 @@ The position property sets how an element is positioned in a document. The offse
  4. Fixed 
  5. Sticky
 ### Static 
-The element is positioned according to the normal flow of the document. the offset properties have no effect
+The element is positioned according to the normal flow of the document. the offset properties have no effect. This is the default value.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDkwNDc5NF19
+eyJoaXN0b3J5IjpbMjA0NDk1ODIyOV19
 -->
