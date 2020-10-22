@@ -1,6 +1,7 @@
 ## position 
-**defination**
-The positon defin
+****
+The position defines the positioning of an element 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzE2Mjc3MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3NjEwODU4NzMsLTIwODg3NDY2MTJdfQ
+==
 -->
