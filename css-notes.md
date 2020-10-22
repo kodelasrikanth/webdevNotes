@@ -12,6 +12,5 @@ Static
 **Relative**
 : The element is positioned according to the normal flow of a document, and the offset relative to itself based on the value of top, right, bottom and left 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE3Njk4MCwxODMwMTI3NzI0LC0xNz
-Y2NTI2NjExXX0=
+eyJoaXN0b3J5IjpbLTIxMzE3Njk4MF19
 -->
