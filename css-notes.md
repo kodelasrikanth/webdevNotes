@@ -1,5 +1,4 @@
 ## position
-**definition**
 The position property sets how an element is positioned in a document. The offset properties determine the final location of positioned elements.
 **values**
 
@@ -13,5 +12,5 @@ The element is positioned according to the normal flow of the document. the offs
 ### Relative
 The element is positioned according to the normal flow of a document, and the offset relative to itself based on the value of top, right, bottom and left 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDM2ODQ2M119
+eyJoaXN0b3J5IjpbLTE5MDQyNTA0NTRdfQ==
 -->
