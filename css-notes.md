@@ -19,10 +19,27 @@ The position property sets how an element is positioned in a document. The offse
 : The element is removed from the normal document flow, and no space is created for the element in the page layout. it is positioned relative to the initial containing block established by the viewport, except when one of its ancestors has a transform, perception or filter property set to something to other than none in witch case that ancestor behaves as the containing book.
 
 **sticky**
-: The element is positioned according to the normal flow of the document, and then offset relative to its nearest scaling ancestor and containing block
+: The element is positioned according to the normal flow of the document, and then offset relative to its nearest scaling ancestor and containing block.
+
+|  |Static  | Relative |
+|
+|
+|  |  |
+|--|--|
+|  |  |
+|  |
+|--|--|
+|  |  |
+|  |
+|--|--|
+|  |  |
+
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjg4NzM3NCwtOTE2NTA4MzI0LC0xNT
-c4NzU0MjU2LDExODk1MDI3NDYsLTcwOTU5MjgwNywxODMwMTI3
-NzI0LDE3MTQxOTAxNjAsLTIxMzE3Njk4MCwxMzEwODE5Njk2LC
-0yMTMxNzY5ODBdfQ==
+eyJoaXN0b3J5IjpbLTI3MDA2NDM3MiwtNzMyODg3Mzc0LC05MT
+Y1MDgzMjQsLTE1Nzg3NTQyNTYsMTE4OTUwMjc0NiwtNzA5NTky
+ODA3LDE4MzAxMjc3MjQsMTcxNDE5MDE2MCwtMjEzMTc2OTgwLD
+EzMTA4MTk2OTYsLTIxMzE3Njk4MF19
 -->
