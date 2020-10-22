@@ -18,9 +18,11 @@ The position property sets how an element is positioned in a document. The offse
 **fixed**
 : The element is removed from the normal document flow, and no space is created for the element in the page layout. it is positioned relative to the initial containing block established by the viewport, except when one of its ancestors has a transform, perception or filter property set to something to other than none in witch case that ancestor behaves as the containing book.
 
+**sticky**
+: The element is positioned according to the nor,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NTY2MzEyLC0xNTc4NzU0MjU2LDExOD
-k1MDI3NDYsLTcwOTU5MjgwNywxODMwMTI3NzI0LDE3MTQxOTAx
-NjAsLTIxMzE3Njk4MCwxMzEwODE5Njk2LC0yMTMxNzY5ODBdfQ
-==
+eyJoaXN0b3J5IjpbLTEzMzI4MzUwMzcsLTE1Nzg3NTQyNTYsMT
+E4OTUwMjc0NiwtNzA5NTkyODA3LDE4MzAxMjc3MjQsMTcxNDE5
+MDE2MCwtMjEzMTc2OTgwLDEzMTA4MTk2OTYsLTIxMzE3Njk4MF
+19
 -->
