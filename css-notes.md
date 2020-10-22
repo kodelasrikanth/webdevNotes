@@ -10,8 +10,8 @@ The position property sets how an element is positioned in a document. The offse
 : The element is positioned according to the normal flow of the document. the offset properties have no effect. This is the default value.
 
 **Relative**
- The element is positioned according to the normal flow of a document, and the offset relative to itself based on the value of top, right, bottom and left 
+: The element is positioned according to the normal flow of a document, and the offset relative to itself based on the value of top, right, bottom and left 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDE5MDE2MCwtMjEzMTc2OTgwLDEzMT
-A4MTk2OTYsLTIxMzE3Njk4MF19
+eyJoaXN0b3J5IjpbMTgzMDEyNzcyNCwxNzE0MTkwMTYwLC0yMT
+MxNzY5ODAsMTMxMDgxOTY5NiwtMjEzMTc2OTgwXX0=
 -->
