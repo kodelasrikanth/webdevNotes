@@ -1,6 +1,6 @@
 ## position 
 **definition**
-The position property def 
+Theposition property sets how an element is positioned in a document
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NDU4MDE2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTc2Njc0NDMxMiwtMjA4ODc0NjYxMl19
 -->
